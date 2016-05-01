@@ -1,0 +1,12 @@
+name = "ArmA 3 Hunting Simulator - 2017";
+picture = "logo_a3h_ca.paa";
+actionName = "GitHub";
+action = "https://github.com/InnovativeStudios/a3h";
+description = "ArmA 3 Hunting Simulator - 2017";
+logo = "logo_a3h_ca.paa";
+logoOver = "logo_a3h_ca.paa";
+tooltip = "ArmA 3 Hunting Simulator - 2017";
+tooltipOwned = "ArmA 3 Hunting Simulator Owned";
+overview = "ArmA 3 Hunting Simulator - 2017";
+author = "Innovative Studios";
+overviewPicture = "logo_a3h_ca.paa";
